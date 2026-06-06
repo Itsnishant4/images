@@ -1,1 +1,8 @@
-
+version: 0.0.0
+files:
+  - url: Aura Ledger Setup 0.0.0.exe
+    sha512: zDWgKMdbz63eV67cXMvEt+mOWv1dnlEUYgw/rbBc2fa+S5BzLN0NHPQ1MSW6c1sC+zrT4EadGrMEQPaNsZlRKw==
+    size: 212822370
+path: Aura Ledger Setup 0.0.0.exe
+sha512: zDWgKMdbz63eV67cXMvEt+mOWv1dnlEUYgw/rbBc2fa+S5BzLN0NHPQ1MSW6c1sC+zrT4EadGrMEQPaNsZlRKw==
+releaseDate: '2026-06-06T10:38:18.931Z'
