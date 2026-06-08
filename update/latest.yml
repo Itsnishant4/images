@@ -1,8 +1,8 @@
 version: 1.1.0
 files:
-  - url: https://www.dropbox.com/scl/fi/22p7xy9qs5hoihho2a3am/Aura-Ledger-Setup-1.0.0.exe?rlkey=6b8etddzc50jvr20nd5msxfud&st=zwbmyaur&dl=1
-    sha512: pOpuo7T8AIcVXVwgiLW9yEfwZOoqzFhFirEBrFhn8TCgfCgjTFnO7se/iR1YZ6LZf8CJAGQr+Pmv7YNaX+6zog==
-    size: 212818230
-path: https://www.dropbox.com/scl/fi/22p7xy9qs5hoihho2a3am/Aura-Ledger-Setup-1.0.0.exe?rlkey=6b8etddzc50jvr20nd5msxfud&st=zwbmyaur&dl=1
-sha512: pOpuo7T8AIcVXVwgiLW9yEfwZOoqzFhFirEBrFhn8TCgfCgjTFnO7se/iR1YZ6LZf8CJAGQr+Pmv7YNaX+6zog==
-releaseDate: '2026-06-06T11:07:24.109Z'
+  - url: https://def3.pcloud.com/cfZxqH1R57ZdjcAbq7ZqwTw7ZZ70FC5kZ2ZZ7JJZZHObBQZKmZfYZ7gZ1mZjQZXYZ3TZlLZbHZGzZInZ9RZn4ZwTZ9JdBzjIntxRhqy2hJU8PLYtOkeNy/Aura%20Ledger%20Setup%201.1.0.exe
+    sha512: 9rVUGaOyY+lFlys6lTJ1oISC7iTMUjjQgFpj4JMIObGq4r+efdYRY9EdO0hzGL+hgLczS6G5q3kApd8eIbTXMQ==
+    size: 227281618
+path: https://def3.pcloud.com/cfZxqH1R57ZdjcAbq7ZqwTw7ZZ70FC5kZ2ZZ7JJZZHObBQZKmZfYZ7gZ1mZjQZXYZ3TZlLZbHZGzZInZ9RZn4ZwTZ9JdBzjIntxRhqy2hJU8PLYtOkeNy/Aura%20Ledger%20Setup%201.1.0.exe
+sha512: 9rVUGaOyY+lFlys6lTJ1oISC7iTMUjjQgFpj4JMIObGq4r+efdYRY9EdO0hzGL+hgLczS6G5q3kApd8eIbTXMQ==
+releaseDate: '2026-06-08T05:15:30.382Z'
